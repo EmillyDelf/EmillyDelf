@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou Emilly!
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – UNIFIP (Patos/PB)
 
-<!--
-**EmillyDelf/EmillyDelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Focado em Desenvolvimento Full Stack  
+🗄️ Domínio em PostgreSQL para modelagem e gerenciamento de bancos de dados  
 
-Here are some ideas to get you started:
+🔧 Meu interesse por tecnologia começou mexendo em hardware quebrado para tentar consertar.  
+Hoje essa curiosidade continua no desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎵 Curiosidade
+
+Além da tecnologia, também sou **músico** — alguém que faz de tudo e gosta de ver **letras coloridas em uma tela preta enquanto transforma ideias em código**.
+## 🚀 Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- PostgreSQL
+- Python
+
+## 📫 Contato
+- Email: emillyvitoriaprog@gmail.com
+- Instagram: _emilly.ab_
