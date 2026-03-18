@@ -16,6 +16,7 @@ Além da tecnologia, também sou **músico** — alguém que faz de tudo e gosta
 - CSS
 - JavaScript
 - PostgreSQL
+- SQL
 - Python
 
 ## 📫 Contato
