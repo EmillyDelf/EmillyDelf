@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Emilly!
 🎓 Estudante de Análise e Desenvolvimento de Sistemas – UNIFIP (Patos/PB)
 
-💻 Focado em Desenvolvimento Full Stack  
-🗄️ Domínio em PostgreSQL para modelagem e gerenciamento de bancos de dados  
+💻 Focado em Desenvolvimento Full Stack.  
+🗄️ Gosto da área de dados e tenho domínio em PostgreSQL para modelagem e gerenciamento.  
 
 🔧 Meu interesse por tecnologia começou mexendo em hardware quebrado para tentar consertar.  
 Hoje essa curiosidade continua no desenvolvimento de software.
