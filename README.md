@@ -5,4 +5,4 @@
 
 ## 📫 Contato
 - Email: emillyvitoriaprog@gmail.com
-- Instagram: _ emilly.ab_
+- Instagram: emilly.dev
